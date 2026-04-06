@@ -4,7 +4,7 @@ This repository serves as a central hub for our work in underwater robotics, eng
 
 ## Team Guidelines
 
-1.  **Be Collaborative:** Share your ideas and help others. We are a team afterall! 
+1.  **Be Collaborative:** Share your ideas and help others. We are a team after all! 
 2.  **Maintain Documentation:** Ensure any new features or changes are documented in the `docs/` folder.
 3.  **Use Issue Templates:** When reporting bugs or suggesting features, use the templates provided in `.github/ISSUE_TEMPLATE/`.
 4.  **Code Quality:** Follow the established coding standards for our ROV software.
