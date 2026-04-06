@@ -1,6 +1,6 @@
 # Contributing to Team Oceanus
 
-Welcome to the Team Oceanus MATE ROV repository! As a team dedicated to underwater robotics and systems engineering excellence, we value your contributions.
+This repository serves as a central hub for our work in underwater robotics, engineering systems, and technical documentation. Whether you're new to the team or continuing the journey with us, you are more than welcome to explore, learn, and contribute as we take a deep dive into innovation, this year and beyond °❀⋆.ೃ࿔*:･ 
 
 ## Team Guidelines
 
